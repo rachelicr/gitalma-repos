@@ -1,8 +1,6 @@
-home: TODO
-path: TODO
-protocol: TODO
-server: TODO
-source: TODO
-subgroup: TODO
+protocol: ssh
+source: github
+server: https://github.com
 repos:
-  - TODO/GROUP: TODO
+-   Project: git@github.com:rae-gh/thesis.git
+-   Code: git@github.com:rae-gh/map-plane.git
