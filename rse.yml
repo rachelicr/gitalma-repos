@@ -1,8 +1,6 @@
-home: TODO
-path: TODO
-protocol: TODO
-server: TODO
-source: TODO
-subgroup: TODO
+protocol: ssh
+source: github
+server: https://github.com
 repos:
-  - TODO/GROUP: TODO
+-   TOOLS: git@github.com:ICR-RSE-Group/gitalma.git
+-   TOOLS: git@github.com:coble-tools/coble.git
