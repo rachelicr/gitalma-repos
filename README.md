@@ -1,5 +1,7 @@
 # Assuming gitalma installed
-`python -m pip install git+https://github.com/ICR-RSE-Group/gitalma.git`
+```bash
+python -m pip install git+https://github.com/ICR-RSE-Group/gitalma.git
+```
 
 # gitalma-repos
 My config files for my gitalma repos
