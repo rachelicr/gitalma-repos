@@ -4,3 +4,4 @@ server: https://github.com
 repos:
 -   Project: git@github.com:rae-gh/thesis.git
 -   Code: git@github.com:rae-gh/map-plane.git
+-   Code: git@github.com:rae-gh/experiments.git
