@@ -1,8 +1,10 @@
-home: TODO
-path: TODO
-protocol: TODO
-server: TODO
-source: TODO
-subgroup: TODO
-repos:
-  - TODO/GROUP: TODO
+path: /data/scratch/DCO/DIGOPS/SCIENCOM/ralcraft/DEV/gitlab-syed/bcrbioinformatics
+protocol: pat
+multi: true
+root: false
+home: /data/scratch/DCO/DIGOPS/SCIENCOM/ralcraft/DEV/gitlab-syed/bcrbioinformatics
+subgroup: 2879
+source: icr
+server: https://git.icr.ac.uk
+repo: bcr_ds_team/bcrbioinformatics
+wikis: false
