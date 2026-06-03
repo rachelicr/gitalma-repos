@@ -1,0 +1,10 @@
+path: .
+protocol: pat
+multi: true
+root: false
+home: .
+subgroup: 4570
+source: icr
+server: https://git.icr.ac.uk
+repo: rae-private/bcds
+wikis: false
