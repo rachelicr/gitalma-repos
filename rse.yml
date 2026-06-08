@@ -6,4 +6,5 @@ repos:
 -   COBLE: git@github.com:coble-tools/coble.git
 -   COBLE: git@github.com:coble-tools/coble-examples.git
 -   COBLE: git@github.com:coble-tools/coble-icr.git
+-   COBLE: git@github.com:coble-tools/coble-community.git
 -   COBLE: git@github.com:rachelicr/tumori.git
