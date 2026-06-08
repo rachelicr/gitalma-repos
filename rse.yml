@@ -3,4 +3,6 @@ source: github
 server: https://github.com
 repos:
 -   TOOLS: git@github.com:ICR-RSE-Group/gitalma.git
--   TOOLS: git@github.com:coble-tools/coble.git
+-   COBLE: git@github.com:coble-tools/coble.git
+-   COBLE: git@github.com:coble-tools/coble-examples.git
+-   COBLE: git@github.com:coble-tools/coble-icr.git
