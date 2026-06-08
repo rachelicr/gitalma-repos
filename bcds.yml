@@ -1,8 +1,8 @@
-path: /data/scratch/DCO/DIGOPS/SCIENCOM/ralcraft/DEV/gitlab-syed/bcrbioinformatics
+path: /...
 protocol: pat
 multi: true
 root: false
-home: /data/scratch/DCO/DIGOPS/SCIENCOM/ralcraft/DEV/gitlab-syed/bcrbioinformatics
+home: /...
 subgroup: 2879
 source: icr
 server: https://git.icr.ac.uk
